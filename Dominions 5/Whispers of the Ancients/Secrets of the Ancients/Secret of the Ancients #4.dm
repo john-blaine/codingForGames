@@ -1,22 +1,15 @@
 #modname "Whispers of the Ancients - Secrets of the Ancients #4"
-#description "Mod Intended For Use With The 'Whispers of the Ancients' Roleplaying Guide: When the Oracles awake, their secrets shall awaken with them. Secret #4 Information: 'The Ancients’ knowledge of invigorating the dead is impressive. Our iron corpses move nearly as quickly as living troops even without enchantment and skeletal corpses previously thought to be too clumsy can now wield a bow as effectively as any mortal. (Speed of iron corpses is doubled and gain access to cheap regular skeleton archers through the “Reanimate Longdead Archers” spell)'"
+#description "Mod Intended For Use With The 'Whispers of the Ancients' Roleplaying Guide: When the Oracles awake, their secrets shall awaken with them. Secret #4 Information: 'The Ancients have bequeathed incredibly valuable secrets of reanimation. Their enchantments will enable us to raise the carefully prepares corpses of our brethren, not as mindless dredges, but as fully aware and mentally capable as they were in life. Their undead existence mocks life further by allowing the corpse to heal wounds overtime as it did in life, but they now value their lives and will flee if they feel that life is threatened (Iron corpses have their dexterity and skill in battle increased and can heal wounds, but their morale is decreased.)'"
 #version 1
 
 #selectmonster 1439 -- Iron Corpse
-#ap 12
-#end
-
-#newspell
-#copyspell 940 -- Reanimate Archers
-#restricted 90
-#name "Reanimate Longdead Archers"
-#descr "The Ancients have delved deeply in pursuit of attaining power over the dead. This spell is one of their most powerful secrets, using simple rituals to reanimate longdead with enough dexterity to wield a bow."
-#researchlevel 0
-#nreff 1010
-#fatiguecost 100
-#effect 10001
-#damage 3005
-#path 0 5
-#path 1 -1
-#pathlevel 5 2
+#clearspec
+#descr "The Ktonian Necromancers of Agartha use the dead in many ways. The dead are raised again to toil and fight for their masters. Corpses are strengthened with iron parts and armed with short blades. These iron corpses are quite robust, and thanks to the knowledge of the Ancients, they retain the mental capabilities and skill in battle that they knew in life. The secrets of the Ancients have allowed them the power to unnaturally heal wounds."
+#mor 18
+#att 10
+#def 11
+#prec 8
+#undead
+#pooramphibian
+#neednoteat
 #end
