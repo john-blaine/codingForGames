@@ -10,7 +10,7 @@
 #copyspell 940 -- Reanimate Archers
 #restricted 90
 #name "Reanimate Longdead Archers"
-#descr "The Ancients have delved deeply in pursuit of attaining power over the dead. This spell is one of their most powerful secrets, reanimating longdead with enough dexterity to wield."
+#descr "The Ancients have delved deeply in pursuit of attaining power over the dead. This spell is one of their most powerful secrets, using simple rituals to reanimate longdead with enough dexterity to wield ranged weapons."
 #researchlevel 0
 #nreff 1010
 #fatiguecost 100
