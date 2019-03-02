@@ -5,5 +5,3 @@
 #selectmonster 1476 -- Tomb Oracle
 #makemonsters2 1501
 #end
-
-
