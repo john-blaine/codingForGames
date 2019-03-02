@@ -1,4 +1,4 @@
-#modname "Whispers of the Ancients - Third Secret of the Ancients"
+#modname "Whispers of the Ancients - Third Secret"
 #description "Mod Intended For Use With The 'Whispers of the Ancients' Roleplaying Guide: When the Oracles awake, their secrets shall awaken with them. Secret #3 Information: 'The Ancients’ knowledge of invigorating the dead is impressive. Our iron corpses move nearly as quickly as living troops even without enchantment and skeletal corpses previously thought to be too clumsy can now wield a bow as effectively as any mortal. (Speed of iron corpses is doubled and gain access to cheap regular skeleton archers through the 'Reanimate Longdead Archers' spell)'"
 #version 1
 

@@ -1,4 +1,4 @@
-#modname "Whispers of the Ancients - First Secret of the Ancients"
+#modname "Whispers of the Ancients - First Secret"
 #description "Mod Intended For Use With The 'Whispers of the Ancients' Roleplaying Guide: When the Oracles awake, their secrets shall awaken with them. Secret #1 Information: 'The ancient Oracles of the Dead knew the secrets to reawakening the younger Pale Ones from their eternal slumber. (Tomb Oracles can summon two cavern wight allies per turn)'"
 #version 1
 
